@@ -1,6 +1,6 @@
 import React from "react";
 import Imagen from "../../img/perfil.jpg";
-import PDF from "../../documents/Cv.pdf";
+import PDF from "../../documents/Curriculum.pdf";
 import "./Home.css";
 function Home() {
   return (
