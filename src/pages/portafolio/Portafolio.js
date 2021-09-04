@@ -5,11 +5,24 @@ import Web from "../../img/web.png";
 import Agenda from "../../img/agenda.png";
 import Calculadora from "../../img/calculadora.png";
 import Esta from "../../img/esta.png";
-
+import Webl from "../../img/webl.jpg";
 const Portafolio = () => {
   return (
     <div className="contenedor">
+      <h2 className="centrar"> Puedes hacer click en las imagenes para dirigirte al repositorio en github</h2><br />
+      
       <div className="row row-cols-1 row-cols-md-2 g-4">
+      <div class="col">
+          <div class="card">
+            <a href="https://github.com/DannyAceves/LaravelBreeze" target="__blank"><img src={Webl} class="img-imgpo" alt="foto"/></a>
+            <div class="card-body">
+              <h1 class="card-title">Tesoem con breeze</h1>
+              <p class="card-text">
+                Creada con el framework Laravel y utiliza los complementos breeze y taildwind, pagina escolar colaborativa.
+                </p>
+            </div>
+          </div>
+        </div>
         <div className="col">
           <div className="card">
             <a href="https://github.com/Thelocoko/TiroParabolico" target="__blank"><img src={Tiro} className="img-imgpo" alt="foto" /></a>
