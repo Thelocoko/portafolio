@@ -8,8 +8,8 @@ const Footer = () => {
         <li>
           <h2>Redes Sociales</h2>
           <ul className="box">
-            <a href="http://www.facebook.com/thelocoko" target="_blank" rel="noreferrer">
-              <i className="social fab fa-facebook-square text-light mr-4"></i>
+            <a href="http://www.github.com/thelocoko" target="_blank" rel="noreferrer">
+              <i class="fab fa-github text-light mr-4"></i>
             </a>
             <a href="http://www.twitter.com/thelocoko" target="_blank" rel="noreferrer">
               <i className="social fab fa-twitter text-light mr-4"></i>
