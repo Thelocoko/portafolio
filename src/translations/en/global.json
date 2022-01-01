@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About me",
+    "briefcase": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "introduction": "Hello, I am a web and mobile application developer, I know a little about back-end and front-end, with good management of ui / ux design with the goal of improving even more.",
+    "button": "Download CV",
+    "pdf": "PDF_EN"
+  },
+  "about":{
+    "title": "A little about me",
+    "name": "My name is Elias Conde Reyes, I'm approaching to be a Computer Systems Engineer.",
+    "first": "I love learning programming in general, which includes application programming, whether they are web, progressive or native applications for mobile devices. I'm always learning to develop an application in a multiplatform framework such as is '​​React native' or 'flutter'. ",
+    "second": "As a professional training within the field of programming, it began by studying Computer Systems Engineering that I am about to finish; The specialty that the school gives me is in mobile devices, however I like to explore other areas such as web programming , I can develop Front-End and Back-End, I am close to graduating from the Tecnológico de Estudios Superiores del Oriente del Estado de México. I have a B2 level of written and spoken English, I even had the opportunity to live 1 month in Canada to take a leadership course and practice my English at the Royal Roads University school located in Vancouver Island. I really like learning and looking for solutions to different problems, in my free time I usually play video games or try to learn more about this world of programming. ",
+    "tools": "These are some of the tools that I have learned to use during my training:"
+  },
+  "portfolio":{
+    "click": "You can click on the images to go to the repository on github",
+    "tesoem": "Tesoem with breeze",
+    "tesoem-description": "Created with the Laravel framework and uses the breeze and taildwind plugins, collaborative school page.",
+    "simulator": "Parabolic shooting simulator",
+    "simulator-description": "Application designed with unity and C # language. It consists of simulating the parabolic shot with the help of the sensors of our android smartphone, it has 2 levels since it is affected by gravity.",
+    "bootstrap": "Personal web with Bootstrap",
+    "bootstrap-description": "Personal page where the procedure to create the parabolic shooting simulation application, created with the Bootstrap framework, is explained.",
+    "android-agent": "Agenda for android",
+    "android-agent-description": "Created in androdid studio and java language, it implements a sqlite3 database. It is an application that saves only text in the database, the images are saved on the device with a specific name, basically it is a CRUD.",
+    "calculator": "Calculator",
+    "calculator-description": "Created in android studio and java language, basic programming, it is practically a hello world with a splash screen.",
+    "web": "Portfolio",
+    "web-description": "Created with the React Js framework with css3 and javascript, you can explore this web.",
+    "ac": "AC APP TESOEM",
+    "ac-description": "Application created with flutter to automate different administrative processes of the school where I studied, currently implemented."
+  },
+  "contact":{
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "button": "Send now"
+},
+  "footer": {
+    "social-media": "Social Media",
+    "title-languaje": "Language",
+    "languaje-es": "Spanish",
+    "languaje-en": "English",
+    "languaje-fr": "French",
+    "reserved": "All rights reserved by "
+  }
+}

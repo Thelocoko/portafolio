@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Acerca de mi",
+    "briefcase": "Portafolio",
+    "contact": "Contacto"
+  },
+  "home": {
+    "introduction": "Hola soy desarrollador de aplicaciones web y móviles conozco un poco de back-end y front-end, con buen manejo de diseño de ui/ux con la meta de lograr mejorar aun más.",
+    "button": "Descargar CV",
+    "pdf": "PDF"
+  },
+  "about": {
+    "title": "Un poco acerca de mi",
+    "name": "Mi nombre es Elias Conde Reyes, estoy aproximandome a ser Ingeniero en Sistemas computacionales.",
+    "first": "Me encanta el aprendizaje de la programación en general, dentro de la cual se encuentra la programación de aplicaciones, ya sean aplicaciones web, progresivas o nativas para dispositivos móviles. Siempre estoy aprendiendo a desarrollar alguna aplicación en algun framework multiplataforma como lo es 'React native'o 'flutter'.",
+    "second": "Como formación profesional dentro del ámbito de la programación comenzó al estudiar Ingeniería en Sistemas Computacionales que estoy a punto de terminar; La especialidad que me da la escuela es en dispositivos móviles sin embargo me gusta explorar otras areas como la programación web, puedo desarrollar Front-End y Back-End, estoy cerca de egresar del Tecnológico de Estudios Superiores del Oriente del Estado de México. Tego un nivel de ingles B2 escrito y hablado, incluso tuve la oportunidad de vivir 1 mes en Cánada para tomar un curso de liderazgo y practicar mi ingles en la escuela Royal Roads University ubicada en Vancouver Island. Me gusta mucho aprender y buscar soluciones a distintas problematicas, en mis tiempos libres suelo jugar videojuegos o tratar de aprender mas acerca de este mundo de la programación.",
+    "tools": "Estas son algunas de las herramientas que he aprendido a utilizar durante mi aprendizaje:"
+  },
+  "portfolio":{
+    "click": "Puedes hacer click en las imagenes para dirigirte al repositorio en github",
+    "tesoem": "Tesoem con breeze",
+    "tesoem-description": "Creada con el framework Laravel y utiliza los complementos breeze y taildwind, pagina escolar colaborativa.",
+    "simulator": "Simulador de tiro parabólico",
+    "simulator-description": "Aplicación diseñada con unity y lenguaje C#. Consiste en simular el tiro parabólico con ayuda de los sensores de nuestro smartphone android, cuenta con 2 niveles ya que le afecta la gravedad.",
+    "bootstrap": "Web personal con Bootstrap",
+    "bootstrap-description": "Página personal donde se explica el procedimiento para crear la aplicación de simulación de tiro parabólico, creada con el framework Bootstrap.",
+    "android-agent": "Agenda para android",
+    "android-agent-description": "Creada en androdid studio y lenguaje java, implementa una base de datos sqlite3. Es una aplicación que guarda solo texto en la base de datos, las imagenes se guardan en el dispositivo con un nombre específico, basicamente es un CRUD.",
+    "calculator": "Calculadora",
+    "calculator-description": "Creada en android studio y lenguaje java, programación básica, es practicamente un hola mundo con un splash screen.",
+    "web": "Portafolio",
+    "web-description": "Creada con el framework Reactjs con css3 y javascript, puedes explorar esta web.",
+    "ac": "AC APP TESOEM",
+    "ac-description": "Aplicación creada con flutter para automatizar distintos procesos administrativos de la escuela donde estudié, actualmente implementada."
+  },
+  "contact":{
+      "name": "Nombre",
+      "email": "Correo",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "button": "Enviar ahora"
+  },
+  "footer": {
+    "social-media": "Redes Sociales",
+    "title-languaje": "Lenguaje",
+    "languaje-es": "Español",
+    "languaje-en": "Inglés",
+    "languaje-fr": "Francés",
+    "reserved": "Todos los derechos reservados por "
+  }
+}

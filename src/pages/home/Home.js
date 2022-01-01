@@ -1,8 +1,24 @@
 import React from "react";
 import Imagen from "../../img/perfil.jpg";
-import PDF from "../../documents/Curriculum.pdf";
+import PDF_ES from "../../documents/Curriculum_ES.pdf";
+import PDF_EN from "../../documents/Curriculum_EN.pdf";
+import PDF_FR from "../../documents/Curriculum_FR.pdf";
+import { useTranslation } from "react-i18next";
 import "./Home.css";
 function Home() {
+  const [t] = useTranslation("global");
+
+  function a() {
+    if(t("home.pdf") === "PDF"){
+      return PDF_ES
+    }
+    else if (t("home.pdf") === "PDF_EN"){
+      return PDF_EN
+    }
+    else if (t("home.pdf") === "PDF_FR"){
+      return PDF_FR
+    }
+  }
   return (
     <div className="contenedor">
       <div className="card mb-3">
@@ -14,19 +30,17 @@ function Home() {
             <div className="card-body">
               <h1 className="card-title">Elias Conde reyes</h1>
               <p className="card-text">
-                Hola soy desarrollador de aplicaciones web y móviles conozco un
-                poco de back-end y front-end, con buen manejo de diseño de ui/ux
-                con la meta de lograr mejorar aun más.
+              {t("home.introduction")}
               </p>
               <div className="centrar">
                 <a
                   className="btn btn-dark"
-                  href={PDF}
+                  href={a()}
                   target="_blank"
                   role="button"
                   rel="noreferrer"
                 >
-                  Descargar CV
+                  {t("home.button")}
                 </a>
               </div>
             </div>

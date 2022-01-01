@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import "./Navbar.css";
 import { NavLink } from "react-router-dom";
 import $ from "jquery";
+import { useTranslation } from "react-i18next";
 
 const Navbar = () => {
   function animation() {
@@ -42,6 +43,8 @@ const Navbar = () => {
     });
   }, []);
 
+  const [t] = useTranslation("global");
+
   return (
     <nav className="navbar navbar-expand-lg navbar-mainbg">
       <NavLink className="navbar-brand navbar-logo" to="/" exact>
@@ -74,24 +77,24 @@ const Navbar = () => {
 
           <li className="nav-item active">
             <NavLink className="nav-link" to="/" exact>
-              <i className="fas fa-home"></i>Inicio
+              <i className="fas fa-home"></i>{t("navbar.home")}
             </NavLink>
           </li>
 
           <li className="nav-item">
             <NavLink className="nav-link" to="/about" exact>
-              <i className="far fa-address-card"></i>Acerca de mi
+              <i className="far fa-address-card"></i>{t("navbar.about")}
             </NavLink>
           </li>
 
           <li className="nav-item">
             <NavLink className="nav-link" to="/portafolio" exact>
-            <i class="fas fa-briefcase"></i>Portafolio
+            <i className="fas fa-briefcase"></i>{t("navbar.briefcase")}
             </NavLink>
           </li>
           <li className="nav-item">
             <NavLink className="nav-link" to="/contact" exact>
-            <i class="fas fa-envelope"></i>Contacto
+            <i className="fas fa-envelope"></i>{t("navbar.contact")}
             </NavLink>
           </li>
         </ul>
