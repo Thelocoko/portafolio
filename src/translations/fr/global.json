@@ -11,11 +11,21 @@
     "pdf": "PDF_FR"
   },
   "about": {
-    "title": "Un peu de moi",
-    "name": "Je m'appelle Elias Conde Reyes, je suis sur le point de devenir ingénieur en systèmes informatiques.",
-    "first": "J'aime apprendre la programmation en général, ce qui inclut la programmation d'applications, qu'il s'agisse d'applications Web, progressives ou natives pour appareils mobiles. J'apprends toujours à développer une application dans un framework multiplateforme tel que 'React native' ou 'flutter'. ",
-    "second": "En tant que formation professionnelle dans le domaine de la programmation, cela a commencé par des études d'ingénierie des systèmes informatiques que je suis sur le point de terminer; La spécialité que l'école me donne est dans les appareils mobiles, cependant j'aime explorer d'autres domaines tels que programmation web , je peux développer Front-End et Back-End, je suis sur le point d'être diplômé du Tecnológico de Estudios Superiores del Oriente del Estado de México. J'ai un niveau B2 d'anglais écrit et parlé, j'ai même eu l'opportunité de vivre 1 mois au Canada pour suivre un cours de leadership et pratiquer mon anglais à l'école Royal Roads University située sur Vancouver Island.J'aime beaucoup apprendre et chercher des solutions à différents problèmes, dans mon temps libre je joue généralement aux jeux vidéo ou j'essaie d'en apprendre plus sur ce monde de la programmation.",
-    "tools": "Voici quelques-uns des outils que j'ai appris à utiliser au cours de ma formation :"
+    "title": "Un peu à mon sujet",
+    "name": "Je m'appelle Elias Conde Reyes et je suis ingénieur en informatique.",
+    "first": "J'adore apprendre la programmation en général, notamment le développement d'applications web, progressives et natives pour les appareils mobiles. J'apprends toujours à développer des applications à l'aide de frameworks multiplateformes tels que 'React Native' ou 'Flutter'.",
+    "second": "Je possède un niveau d'anglais B2 à la fois à l'écrit et à l'oral. De plus, j'ai eu l'occasion de vivre au Canada pendant un mois pour suivre un cours de leadership et pratiquer mon anglais à la Royal Roads University, située sur l'île de Vancouver. Je suis passionné par l'apprentissage et la recherche de solutions à divers problèmes. Pendant mes temps libres, j'aime jouer à des jeux vidéo et continuer d'approfondir mes connaissances dans le domaine de la programmation.",
+    "tools": "Voici quelques-uns des outils que j'ai appris à utiliser au cours de mon apprentissage :",
+    "work-title": "Expérience professionnelle",
+    "work1": "Pendant mon séjour chez Gi Moen Consultores, j'ai eu le privilège de travailler en tant que développeur Fullstack et Scrum Master, jouant un rôle essentiel dans le développement et la gestion de projets. En tant que développeur Fullstack, j'étais responsable de la gestion des bases de données MongoDb et PostgreSQL, garantissant un stockage et un accès efficaces aux données. De plus, j'ai utilisé mes compétences en ReactJS pour créer des vues attrayantes et fonctionnelles sur le frontend, tout en développant des endpoints en Django sur le backend, en mettant en œuvre la logique métier et en veillant à l'intégrité des données.",
+    "work2": "Une partie cruciale de mon rôle était d'optimiser les performances à la fois dans le backend et le frontend, en identifiant les goulots d'étranglement et en appliquant des solutions efficaces pour améliorer l'expérience utilisateur. J'ai également assumé la responsabilité de la gestion des services AWS, en mettant en œuvre des pratiques de déploiement continu (CI/CD) à l'aide de GitLab pour le déploiement sur l'infrastructure AWS. J'ai également géré les domaines dans Google Domains, en veillant à leur configuration et à leur maintenance correctes.",
+    "work3": "En tant que Scrum Master, j'ai facilité le processus agile de développement logiciel. J'ai mené des rétrospectives en utilisant Miro, offrant un espace d'apprentissage et d'amélioration continue pour l'équipe. J'ai utilisé Jira pour attribuer des tâches et gérer le flux de travail, en veillant à une exécution et à un suivi appropriés des projets.",
+    "work4": "De plus, j'ai dirigé des projets spécifiques où j'ai conteneurisé l'ensemble de l'application à l'aide de Docker, ce qui a permis un déploiement facile et une plus grande portabilité sur différents environnements. J'ai également dirigé le développement de deux sites web : ",
+    "link1": "https://kaminoit.tech",
+    "link2": "http://prueba.jyreh.mx",
+    "and": " et ",
+    "work5": ". Ces sites web sont actuellement déployés sur AWS et ont été conçus en mettant l'accent sur l'efficacité, les performances et une expérience utilisateur attrayante.",
+    "work6": "En résumé, mon expérience chez Gi Moen Consultores en tant que développeur Fullstack et Scrum Master m'a permis de jouer un rôle essentiel dans le développement d'applications, l'optimisation des performances, la gestion des services cloud et la facilitation des méthodologies agiles. Je suis fier de contribuer au succès des projets et d'acquérir des compétences solides dans le domaine du développement logiciel."
   },
   "portfolio": {
     "click": "Vous pouvez cliquer sur les images pour accéder au référentiel sur github",

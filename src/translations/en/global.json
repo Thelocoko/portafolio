@@ -11,11 +11,21 @@
     "pdf": "PDF_EN"
   },
   "about": {
-    "title": "A little about me",
-    "name": "My name is Elias Conde Reyes, I'm approaching to be a Computer Systems Engineer.",
-    "first": "I love learning programming in general, which includes application programming, whether they are web, progressive or native applications for mobile devices. I'm always learning to develop an application in a multiplatform framework such as is '​​React native' or 'flutter'. ",
-    "second": "As a professional training within the field of programming, it began by studying Computer Systems Engineering that I am about to finish; The specialty that the school gives me is in mobile devices, however I like to explore other areas such as web programming , I can develop Front-End and Back-End, I am close to graduating from the Tecnológico de Estudios Superiores del Oriente del Estado de México. I have a B2 level of written and spoken English, I even had the opportunity to live 1 month in Canada to take a leadership course and practice my English at the Royal Roads University school located in Vancouver Island. I really like learning and looking for solutions to different problems, in my free time I usually play video games or try to learn more about this world of programming. ",
-    "tools": "These are some of the tools that I have learned to use during my training:"
+    "title": "A little bit about me",
+    "name": "My name is Elias Conde Reyes and I am a Computer Systems Engineer.",
+    "first": "I love learning programming in general, including web, progressive, and native mobile application development. I'm always learning to develop applications using cross-platform frameworks such as 'React Native' or 'Flutter'.",
+    "second": "I have a B2 level of English proficiency in both writing and speaking. Additionally, I had the opportunity to live in Canada for a month to take a leadership course and practice my English at Royal Roads University located in Vancouver Island. I am passionate about learning and finding solutions to various problems. In my free time, I enjoy playing video games and furthering my knowledge of the programming world.",
+    "tools": "These are some of the tools I have learned to use during my learning journey:",
+    "work-title": "Professional Experience",
+    "work1": "During my time at Gi Moen Consultores, I had the privilege of working as a Fullstack Developer and Scrum Master, playing an integral role in project development and management. As a Fullstack Developer, I was responsible for managing databases in MongoDb and PostgreSQL, ensuring efficient storage and access to data. Additionally, I utilized my skills in ReactJS to create attractive and functional views on the frontend, while developing endpoints in Django on the backend, implementing business logic and ensuring data integrity.",
+    "work2": "A crucial part of my role was optimizing performance in both the backend and frontend, identifying bottlenecks and applying efficient solutions to enhance the user experience. I also took on the responsibility of managing AWS services, implementing continuous deployment (CI/CD) practices using GitLab for deployment on the AWS infrastructure. Additionally, I managed domains in Google Domains, ensuring proper configuration and maintenance.",
+    "work3": "As a Scrum Master, I facilitated the agile software development process. I conducted retrospectives using Miro, providing a space for team learning and continuous improvement. I used Jira to assign tasks and manage workflow, ensuring proper execution and project tracking.",
+    "work4": "Furthermore, I led specific projects where I containerized the entire application using Docker, enabling easy deployment and greater portability across different environments. I also led the development of two websites: ",
+    "link1": "https://kaminoit.tech",
+    "link2": "http://prueba.jyreh.mx",
+    "and": " and ",
+    "work5": ". These websites are currently deployed on AWS and were designed with a focus on efficiency, performance, and an attractive user experience.",
+    "work6": "In summary, my experience at Gi Moen Consultores as a Fullstack Developer and Scrum Master allowed me to play an integral role in application development, performance optimization, cloud service management, and facilitation of agile methodologies. I take pride in contributing to project success and acquiring solid skills in the field of software development."
   },
   "portfolio": {
     "click": "You can click on the images to go to the repository on github",

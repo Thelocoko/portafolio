@@ -12,12 +12,22 @@
   },
   "about": {
     "title": "Un poco acerca de mi",
-    "name": "Mi nombre es Elias Conde Reyes, estoy aproximandome a ser Ingeniero en Sistemas computacionales.",
-    "first": "Me encanta el aprendizaje de la programación en general, dentro de la cual se encuentra la programación de aplicaciones, ya sean aplicaciones web, progresivas o nativas para dispositivos móviles. Siempre estoy aprendiendo a desarrollar alguna aplicación en algun framework multiplataforma como lo es 'React native'o 'flutter'.",
-    "second": "Como formación profesional dentro del ámbito de la programación comenzó al estudiar Ingeniería en Sistemas Computacionales que estoy a punto de terminar; La especialidad que me da la escuela es en dispositivos móviles sin embargo me gusta explorar otras areas como la programación web, puedo desarrollar Front-End y Back-End, estoy cerca de egresar del Tecnológico de Estudios Superiores del Oriente del Estado de México. Tego un nivel de ingles B2 escrito y hablado, incluso tuve la oportunidad de vivir 1 mes en Cánada para tomar un curso de liderazgo y practicar mi ingles en la escuela Royal Roads University ubicada en Vancouver Island. Me gusta mucho aprender y buscar soluciones a distintas problematicas, en mis tiempos libres suelo jugar videojuegos o tratar de aprender mas acerca de este mundo de la programación.",
-    "tools": "Estas son algunas de las herramientas que he aprendido a utilizar durante mi aprendizaje:"
+    "name": "Mi nombre es Elias Conde Reyes y soy Ingeniero en Sistemas Computacionales.",
+    "first": "Me encanta el aprendizaje de la programación en general, dentro de la cual se encuentra la programación de aplicaciones, ya sean aplicaciones web, progresivas o nativas para dispositivos móviles. Siempre estoy aprendiendo a desarrollar alguna aplicación en algún framework multiplataforma como lo es 'React Native' o 'Flutter'.",
+    "second": "Tengo un nivel de inglés B2 tanto en escritura como en conversación. Además, tuve la oportunidad de vivir en Canadá durante un mes para tomar un curso de liderazgo y practicar mi inglés en la Royal Roads University, ubicada en Vancouver Island. Me apasiona el aprendizaje y la búsqueda de soluciones a diversas problemáticas. En mis tiempos libres, suelo disfrutar de los videojuegos y seguir aprendiendo sobre el mundo de la programación.",
+    "tools": "Estas son algunas de las herramientas que he aprendido a utilizar durante mi aprendizaje:",
+    "work-title": "Experiencia Profesional",
+    "work1": "Durante mi tiempo en Gi Moen Consultores, tuve el privilegio de desempeñarme como Fullstack Developer y Scrum Master, asumiendo un papel integral en el desarrollo y gestión de proyectos. Como Fullstack Developer, fui responsable de administrar bases de datos en MongoDb y PostgreSQL, asegurando un almacenamiento y acceso eficiente de los datos. Además, utilicé mis habilidades en ReactJS para crear vistas atractivas y funcionales en el frontend, mientras que en el backend desarrollé endpoints en Django, implementando lógica empresarial y garantizando la integridad de los datos.",
+    "work2": "Una parte crucial de mi función fue optimizar el rendimiento tanto en el backend como en el frontend, identificando cuellos de botella y aplicando soluciones eficientes para mejorar la experiencia del usuario. Además, asumí la responsabilidad de administrar los servicios de AWS, implementando prácticas de implementación continua (CI/CD) utilizando GitLab para desplegar en la infraestructura de AWS. También me encargué de la gestión de dominios en Google Domains, asegurando su correcta configuración y mantenimiento.",
+    "work3": "En mi rol como Scrum Master, facilité el proceso ágil de desarrollo de software. Realicé retrospectivas utilizando Miro, proporcionando un espacio para el aprendizaje y la mejora continua del equipo. Utilicé Jira para asignar tareas y gestionar el flujo de trabajo, garantizando la correcta ejecución y seguimiento de los proyectos.",
+    "work4": "Además, lideré proyectos específicos en los cuales empaqueté toda la aplicación en contenedores Docker, lo que permitió una implementación sencilla y una mayor portabilidad en diferentes entornos. También asumí la responsabilidad de liderar el desarrollo de dos páginas web: ",
+    "link1": "https://kaminoit.tech",
+    "link2": "http://prueba.jyreh.mx",
+    "and": " y ",
+    "work5": ". Estas páginas web están actualmente desplegadas en AWS y fueron diseñadas con un enfoque en la eficiencia, el rendimiento y una experiencia de usuario atractiva.",
+    "work6": "En resumen, mi experiencia en Gi Moen Consultores como Fullstack Developer y Scrum Master me permitió desempeñar un papel integral en el desarrollo de aplicaciones, optimización del rendimiento, gestión de servicios en la nube y facilitación de metodologías ágiles. Estoy orgulloso de haber contribuido al éxito de los proyectos y de haber adquirido habilidades sólidas en el campo del desarrollo de software."
   },
-  "portfolio":{
+  "portfolio": {
     "click": "Puedes hacer click en las imagenes para dirigirte al repositorio en github",
     "tesoem": "Tesoem con breeze",
     "tesoem-description": "Creada con el framework Laravel y utiliza los complementos breeze y taildwind, pagina escolar colaborativa.",
@@ -33,16 +43,16 @@
     "web-description": "Creada con el framework Reactjs con css3 y javascript, puedes explorar esta web.",
     "ac": "AC APP TESOEM",
     "ac-description": "Aplicación creada con flutter para automatizar distintos procesos administrativos de la escuela donde estudié, actualmente implementada.",
-    "yu":"Prueba Técnica Yu Gi Oh",
-    "yu-description":"Desarrollé una aplicación utilizando ReactJS que consume la API de Yu-Gi-Oh! utilizando fetch y Redux. La aplicación implementa la paginación y obtiene los detalles de cada carta. Esta fue la prueba técnica que realicé para obtener mi trabajo.",
-    "yu-mas":"Aqui puedes verla online"
+    "yu": "Prueba Técnica Yu Gi Oh",
+    "yu-description": "Desarrollé una aplicación utilizando ReactJS que consume la API de Yu-Gi-Oh! utilizando fetch y Redux. La aplicación implementa la paginación y obtiene los detalles de cada carta. Esta fue la prueba técnica que realicé para obtener mi trabajo.",
+    "yu-mas": "Aqui puedes verla online"
   },
-  "contact":{
-      "name": "Nombre",
-      "email": "Correo",
-      "subject": "Asunto",
-      "message": "Mensaje",
-      "button": "Enviar ahora"
+  "contact": {
+    "name": "Nombre",
+    "email": "Correo",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "button": "Enviar ahora"
   },
   "footer": {
     "social-media": "Redes Sociales",
