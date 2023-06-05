@@ -17,7 +17,7 @@
     "second": "En tant que formation professionnelle dans le domaine de la programmation, cela a commencé par des études d'ingénierie des systèmes informatiques que je suis sur le point de terminer; La spécialité que l'école me donne est dans les appareils mobiles, cependant j'aime explorer d'autres domaines tels que programmation web , je peux développer Front-End et Back-End, je suis sur le point d'être diplômé du Tecnológico de Estudios Superiores del Oriente del Estado de México. J'ai un niveau B2 d'anglais écrit et parlé, j'ai même eu l'opportunité de vivre 1 mois au Canada pour suivre un cours de leadership et pratiquer mon anglais à l'école Royal Roads University située sur Vancouver Island.J'aime beaucoup apprendre et chercher des solutions à différents problèmes, dans mon temps libre je joue généralement aux jeux vidéo ou j'essaie d'en apprendre plus sur ce monde de la programmation.",
     "tools": "Voici quelques-uns des outils que j'ai appris à utiliser au cours de ma formation :"
   },
-  "portfolio":{
+  "portfolio": {
     "click": "Vous pouvez cliquer sur les images pour accéder au référentiel sur github",
     "tesoem": "Tesoem avec breeze",
     "tesoem-description": "Créé avec le framework Laravel et utilise les plugins breeze et taildwind, page école collaborative.",
@@ -32,15 +32,18 @@
     "web": "Portfolio",
     "web-description": "Créé avec le framework React Js avec css3 et javascript, vous pouvez explorer ce site Web.",
     "ac": "AC APP TESOEM",
-    "ac-description": "Application créée avec flutter pour automatiser différents processus administratifs de l'école où j'ai étudié, actuellement implémentée."
+    "ac-description": "Application créée avec flutter pour automatiser différents processus administratifs de l'école où j'ai étudié, actuellement implémentée.",
+    "yu": "Test Technique Yu-Gi-Oh",
+    "yu-description": "J'ai développé une application utilisant ReactJS qui consomme l'API Yu-Gi-Oh! en utilisant fetch et Redux. L'application met en œuvre la pagination et récupère les détails de chaque carte. Ceci était le test technique que j'ai réalisé pour obtenir mon emploi actuel.",
+    "yu-mas": "Vous pouvez le consulter en ligne ici."
   },
-  "contact":{
+  "contact": {
     "name": "Nom",
     "email": "Email",
     "subject": "Matière",
     "message": "Message",
     "button": "Envoyer maintenant"
-},
+  },
   "footer": {
     "social-media": "Réseaux sociaux",
     "title-languaje": "Lenguage",

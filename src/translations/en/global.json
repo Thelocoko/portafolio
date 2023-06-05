@@ -10,14 +10,14 @@
     "button": "Download CV",
     "pdf": "PDF_EN"
   },
-  "about":{
+  "about": {
     "title": "A little about me",
     "name": "My name is Elias Conde Reyes, I'm approaching to be a Computer Systems Engineer.",
     "first": "I love learning programming in general, which includes application programming, whether they are web, progressive or native applications for mobile devices. I'm always learning to develop an application in a multiplatform framework such as is '​​React native' or 'flutter'. ",
     "second": "As a professional training within the field of programming, it began by studying Computer Systems Engineering that I am about to finish; The specialty that the school gives me is in mobile devices, however I like to explore other areas such as web programming , I can develop Front-End and Back-End, I am close to graduating from the Tecnológico de Estudios Superiores del Oriente del Estado de México. I have a B2 level of written and spoken English, I even had the opportunity to live 1 month in Canada to take a leadership course and practice my English at the Royal Roads University school located in Vancouver Island. I really like learning and looking for solutions to different problems, in my free time I usually play video games or try to learn more about this world of programming. ",
     "tools": "These are some of the tools that I have learned to use during my training:"
   },
-  "portfolio":{
+  "portfolio": {
     "click": "You can click on the images to go to the repository on github",
     "tesoem": "Tesoem with breeze",
     "tesoem-description": "Created with the Laravel framework and uses the breeze and taildwind plugins, collaborative school page.",
@@ -32,15 +32,18 @@
     "web": "Portfolio",
     "web-description": "Created with the React Js framework with css3 and javascript, you can explore this web.",
     "ac": "AC APP TESOEM",
-    "ac-description": "Application created with flutter to automate different administrative processes of the school where I studied, currently implemented."
+    "ac-description": "Application created with flutter to automate different administrative processes of the school where I studied, currently implemented.",
+    "yu": "Yu-Gi-Oh Technical Test",
+    "yu-description": "I developed an application using ReactJS that consumes the Yu-Gi-Oh! API using fetch and Redux. The application implements pagination and retrieves details for each card. This was the technical test I completed to secure my current job.",
+    "yu-mas": "You can view it online here."
   },
-  "contact":{
+  "contact": {
     "name": "Name",
     "email": "Email",
     "subject": "Subject",
     "message": "Message",
     "button": "Send now"
-},
+  },
   "footer": {
     "social-media": "Social Media",
     "title-languaje": "Language",

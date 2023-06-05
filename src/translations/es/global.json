@@ -32,7 +32,10 @@
     "web": "Portafolio",
     "web-description": "Creada con el framework Reactjs con css3 y javascript, puedes explorar esta web.",
     "ac": "AC APP TESOEM",
-    "ac-description": "Aplicación creada con flutter para automatizar distintos procesos administrativos de la escuela donde estudié, actualmente implementada."
+    "ac-description": "Aplicación creada con flutter para automatizar distintos procesos administrativos de la escuela donde estudié, actualmente implementada.",
+    "yu":"Prueba Técnica Yu Gi Oh",
+    "yu-description":"Desarrollé una aplicación utilizando ReactJS que consume la API de Yu-Gi-Oh! utilizando fetch y Redux. La aplicación implementa la paginación y obtiene los detalles de cada carta. Esta fue la prueba técnica que realicé para obtener mi trabajo.",
+    "yu-mas":"Aqui puedes verla online"
   },
   "contact":{
       "name": "Nombre",

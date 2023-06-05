@@ -8,27 +8,37 @@ import Calculadora from "../../img/calculadora.png";
 import Esta from "../../img/esta.png";
 import Webl from "../../img/webl.jpg";
 import AC from "../../img/ac.png";
+import Yu from "../../img/yu.png";
 const Portafolio = () => {
   const [t] = useTranslation("global");
   return (
     <div className="contenedor">
-      <h2 className="centrar"> {t("portfolio.click")}</h2><br />
-      
+      <h2 className="centrar"> {t("portfolio.click")}</h2>
+      <br />
+
       <div className="row row-cols-1 row-cols-md-2 g-4">
-      <div className="col">
+        <div className="col">
           <div className="card">
-            <a href="https://github.com/DannyAceves/LaravelBreeze" target="__blank"><img src={Webl} className="img-imgpo" alt="foto"/></a>
+            <a
+              href="https://github.com/DannyAceves/LaravelBreeze"
+              target="__blank"
+            >
+              <img src={Webl} className="img-imgpo" alt="foto" />
+            </a>
             <div className="card-body">
               <h1 className="card-title">{t("portfolio.tesoem")}</h1>
-              <p className="card-text">
-                {t("portfolio.tesoem-description")}
-                </p>
+              <p className="card-text">{t("portfolio.tesoem-description")}</p>
             </div>
           </div>
         </div>
         <div className="col">
           <div className="card">
-            <a href="https://github.com/Thelocoko/TiroParabolico" target="__blank"><img src={Tiro} className="img-imgpo" alt="foto" /></a>
+            <a
+              href="https://github.com/Thelocoko/TiroParabolico"
+              target="__blank"
+            >
+              <img src={Tiro} className="img-imgpo" alt="foto" />
+            </a>
             <div className="card-body">
               <h1 className="card-title">{t("portfolio.simulator")}</h1>
               <p className="card-text">
@@ -39,56 +49,95 @@ const Portafolio = () => {
         </div>
         <div className="col">
           <div className="card">
-            <a href="https://github.com/Thelocoko/WebBootstrap" target="__blank"><img src={Web} className="img-imgpo" alt="foto" /></a>
+            <a
+              href="https://github.com/Thelocoko/WebBootstrap"
+              target="__blank"
+            >
+              <img src={Web} className="img-imgpo" alt="foto" />
+            </a>
             <div className="card-body">
               <h1 className="card-title">{t("portfolio.bootstrap")}</h1>
               <p className="card-text">
-              {t("portfolio.bootstrap-description")}
+                {t("portfolio.bootstrap-description")}
               </p>
             </div>
           </div>
         </div>
         <div className="col">
           <div className="card">
-          <a href="https://github.com/Thelocoko/A8S212021Proyecto" target="__blank"><img src={Agenda} className="img-imgpo" alt="foto" /></a>
+            <a
+              href="https://github.com/Thelocoko/A8S212021Proyecto"
+              target="__blank"
+            >
+              <img src={Agenda} className="img-imgpo" alt="foto" />
+            </a>
             <div className="card-body">
               <h1 className="card-title">{t("portfolio.android-agent")}</h1>
               <p className="card-text">
-              {t("portfolio.android-agent-description")}
+                {t("portfolio.android-agent-description")}
               </p>
             </div>
           </div>
         </div>
         <div className="col">
           <div className="card">
-            <a href= "https://github.com/Thelocoko/A7S212021prac2" target="__blank"><img src={Calculadora} className="img-imgpo" alt="foto" /></a>
+            <a
+              href="https://github.com/Thelocoko/A7S212021prac2"
+              target="__blank"
+            >
+              <img src={Calculadora} className="img-imgpo" alt="foto" />
+            </a>
             <div className="card-body">
               <h1 className="card-title">{t("portfolio.calculator")}</h1>
               <p className="card-text">
-              {t("portfolio.calculator-description")}
+                {t("portfolio.calculator-description")}
               </p>
             </div>
           </div>
         </div>
         <div className="col">
           <div className="card">
-            <a href="https://github.com/Thelocoko/portafolio" target="__blank"><img src={Esta} className="img-imgpo" alt="foto"/></a>
+            <a href="https://github.com/Thelocoko/portafolio" target="__blank">
+              <img src={Esta} className="img-imgpo" alt="foto" />
+            </a>
             <div className="card-body">
               <h1 className="card-title">{t("portfolio.web")}</h1>
-              <p className="card-text">
-              {t("portfolio.web-description")}
-              </p>
+              <p className="card-text">{t("portfolio.web-description")}</p>
             </div>
           </div>
         </div>
         <div className="col">
           <div className="card">
-            <a href="https://github.com/Thelocoko/acapptesoem" target="__blank"><img src={AC} className="img-imgpo" alt="foto"/></a>
+            <a href="https://github.com/Thelocoko/acapptesoem" target="__blank">
+              <img src={AC} className="img-imgpo" alt="foto" />
+            </a>
             <div className="card-body">
               <h1 className="card-title">{t("portfolio.ac")}</h1>
-              <p className="card-text">
-              {t("portfolio.ac-description")}
-              </p>
+              <p className="card-text">{t("portfolio.ac-description")}</p>
+            </div>
+          </div>
+        </div>
+        <div className="col">
+          <div className="card">
+            <a href="https://github.com/Thelocoko/yu-gi-oh" target="__blank">
+              <img src={Yu} className="img-imgpo" alt="foto" />
+            </a>
+            <div className="card-body">
+              <h1 className="card-title">{t("portfolio.yu")}</h1>
+              <p className="card-text">{t("portfolio.yu-description")}</p>{" "}
+              <button
+                id="btn-mas"
+                type="button"
+                className="btn btn-link"
+                onClick={() =>
+                  window.open(
+                    "https://thelocoko.github.io/yu-gi-oh",
+                    "_blank"
+                  )
+                }
+              >
+                {t("portfolio.yu-mas")}
+              </button>
             </div>
           </div>
         </div>
